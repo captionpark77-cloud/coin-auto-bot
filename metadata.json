@@ -1,0 +1,5 @@
+{
+  "name": "Upbit Martingale Bot",
+  "description": "A high-visibility mobile-optimized automated trading dashboard for Upbit using the Martingale (scaling-in) strategy.",
+  "requestFramePermissions": []
+}
